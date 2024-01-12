@@ -1,5 +1,6 @@
 # Image-Audio
 **pytesseract**
+
 PyTesseract is a Python wrapper for Google's Tesseract-OCR Engine, which is used for Optical Character Recognition (OCR) tasks, i.e., extracting text from images. It is not designed for converting images to audio.
 
 To convert an image to audio, might need to use a different approach, such as converting the text extracted from the image to speech. Here's a general outline of how you could achieve this using Python:
